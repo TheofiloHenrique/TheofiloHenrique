@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Theofilo Henrique 🖐️
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theofilo-henrique-375b692a8/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theofilohenrique-dev/)
 
 <a href="https://github.com/TheofiloHenrique/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheofiloHenrique&rank_icon=github&show_icons=true&theme=highcontrast&count_private=true" />
